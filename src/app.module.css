@@ -1,0 +1,22 @@
+.a{
+     border:2px solid black;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     background-color: aqua;
+     
+}
+.a1 #im{
+     border:1px solid black;
+     height:20px;
+     width:100px;
+     margin: 10px;
+     
+}
+.a21{
+     border:1px solid black;
+     margin-top:50px;
+}
+.a21 .a212{
+     border:1px solid black;
+}
